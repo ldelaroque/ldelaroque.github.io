@@ -24,8 +24,8 @@ cv:
       - institution: Université Paris Cité, Institut de Physique du Globe de Paris
         location: Paris, France
         url: ""
-        area: Planetary Geophysics
-        studyType: PhD
+        area:
+        studyType: PhD in Planetary Geophysics
         start_date: 2024
         end_date: 2027
         score: ""
@@ -36,7 +36,7 @@ cv:
 
       - institution: Université Paris Cité, Institut de Physique du Globe de Paris
         location: Paris, France
-        area: Geophysics
+        area: 
         studyType: Internional Master in Solid Earth Sciences
         start_date: 2023
         end_date: 2024
