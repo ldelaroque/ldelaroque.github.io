@@ -31,8 +31,8 @@ cv:
         score: ""
         courses: ""
         highlights:
-          - Thesis. "Seismic Exploration of Icy Ocean Worlds - Preparation for the Dragonfly Mission to Titan"
-          - Advisors. Sébastien Rodriguez, Antoine Lucas, Taichi Kawamura
+          - Thesis. Seismic Exploration of Icy Ocean Worlds – Preparation for the *Dragonfly* Mission to Titan.
+          - Advisors. Sébastien Rodriguez, Antoine Lucas, Taichi Kawamura.
 
       - institution: Université Paris Cité, Institut de Physique du Globe de Paris
         location: Paris, France
@@ -41,8 +41,8 @@ cv:
         start_date: 2023
         end_date: 2024
         highlights:
-          - Thesis. Seismic Source Exploration on Titan - Implications for Future Missions
-          - Advisors. Taichi Kawamura, Antoine Lucas, Sébastien Rodriguez
+          - Thesis. Seismic Source Exploration on Titan – Implications for Future Missions.
+          - Advisors. Taichi Kawamura, Antoine Lucas, Sébastien Rodriguez.
 
       - institution: Université Grenoble Alpes
         location: Grenoble, France
@@ -51,8 +51,8 @@ cv:
         start_date: 2021
         end_date: 2023
         highlights:
-          - Thesis. An efficient method for computing the seismic wavefield using the Born approximation
-          - Advisors. Nobuaki Fuji
+          - Thesis. An efficient method for computing the seismic wavefield using the Born approximation.
+          - Advisors. Nobuaki Fuji.
 
       - institution: Université Grenoble Alpes
         location: Grenoble, France
@@ -123,18 +123,18 @@ cv:
       - title: Investigating the Detectability of Body Wave Phases from Tidal Ice Cracking Events on Titan with the Dragonfly Short-Period Seismometer
         authors:
           - Delaroque, L., Kawamura, T., Lucas, A., Rodriguez, S., Onodera, K., Shiraishi, H., Yamada, R., Tanaka, S., Panning, M. P., Lorenz, R. D.
-        publisher: J. Geophys. Res.
+        publisher: J. Geophys. Res. Planets, 2026.
         releaseDate: 2026-04-06
         url: http://dx.doi.org/10.1029/2025JE009432
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+        summary: # It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
 
       - title: A Physically-Based Frequency-Temperature Seismic Anelastic Attenuation Model for Planetary Ice Shells
         authors:
           - Delaroque, L., Kawamura, T., Lucas, A., Rodriguez, S.
-        publisher: Earth and Space Sciences
+        publisher: Earth and Space Sciences, 2026.
         releaseDate: 2026-08-07
         url: www.doi.org/10.1029/2026EA005178
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+        summary: #In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
 
 
     Skills:
