@@ -44,6 +44,23 @@ cv:
           - Thesis. Seismic Source Exploration on Titan - Implications for Future Missions
           - Advisors. Taichi Kawamura, Antoine Lucas, Sébastien Rodriguez
 
+      - institution: Université Grenoble Alpes
+        location: Grenoble, France
+        area: 
+        studyType: Master in Geophysics and Earth Imaging
+        start_date: 2021
+        end_date: 2023
+        highlights:
+          - Thesis. An efficient method for computing the seismic wavefield using the Born approximation
+          - Advisors. Nobuaki Fuji
+
+      - institution: Université Grenoble Alpes
+        location: Grenoble, France
+        area: 
+        studyType: Bachelor in Earth Sciences
+        start_date: 2018
+        end_date: 2021
+
     Experience:
       - company: Institute for Advanced Study, Princeton University
         position: Professor of Theoretical Physics
