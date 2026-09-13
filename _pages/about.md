@@ -6,7 +6,7 @@ subtitle: <a href='https://u-paris.fr/language/en/'> Université Paris Cité</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: photo_cv.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
