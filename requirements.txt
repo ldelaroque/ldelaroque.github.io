@@ -2,3 +2,8 @@ nbconvert
 pyyaml
 rendercv[full]
 scholarly
+
+- name: Install RenderCV
+  run: |
+    pip install -r requirements.txt
+    rendercv --version
