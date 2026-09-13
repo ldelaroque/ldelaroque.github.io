@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://u-paris.fr/language/en/'> Université Paris Cité</a>, <a href='https://www.ipgp.fr/en/'> Institut de Physique du Globe de Paris (IPGP)</a>, Address. Contacts. Motto. Etc.
 
