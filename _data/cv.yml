@@ -3,7 +3,9 @@ cv:
   label: PhD student
   email: delaroque@ipgp.fr
   location: Paris, France
-  image: ""
+  image: ""  
+  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+
 
   social_networks:
     - network: GitHub
