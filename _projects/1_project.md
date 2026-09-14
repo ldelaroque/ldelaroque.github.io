@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Titan
-description: with background image
+description: The *Dragonfly* mission
 img: assets/img/titan.jpeg
 importance: 1
 category: work
