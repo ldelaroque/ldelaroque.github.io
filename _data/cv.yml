@@ -93,28 +93,28 @@ cv:
         summary: 
 
     Publications:
-      - title: Investigating the Detectability of Body Wave Phases from Tidal Ice Cracking Events on Titan with the Dragonfly Short-Period Seismometer
-        authors:
-          - Delaroque, L., Kawamura, T., Lucas, A., Rodriguez, S., Onodera, K., Shiraishi, H., Yamada, R., Tanaka, S., Panning, M. P., Lorenz, R. D.
-        publisher: J. Geophys. Res. Planets, 2026.
-        releaseDate: 2026-04-06
-        url: http://dx.doi.org/10.1029/2025JE009432
-        summary: # It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+      # - title: Investigating the Detectability of Body Wave Phases from Tidal Ice Cracking Events on Titan with the Dragonfly Short-Period Seismometer
+      #   authors:
+      #     - Delaroque, L., Kawamura, T., Lucas, A., Rodriguez, S., Onodera, K., Shiraishi, H., Yamada, R., Tanaka, S., Panning, M. P., Lorenz, R. D.
+      #   publisher: J. Geophys. Res. Planets, 2026.
+      #   releaseDate: 2026-04-06
+      #   url: http://dx.doi.org/10.1029/2025JE009432
+      #   summary: # It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
 
-      - title: A Physically-Based Frequency-Temperature Seismic Anelastic Attenuation Model for Planetary Ice Shells
-        authors:
-          - Delaroque, L., Kawamura, T., Lucas, A., Rodriguez, S.
-        publisher: Earth and Space Sciences, 2026.
-        releaseDate: 2026-08-07
-        url: www.doi.org/10.1029/2026EA005178
-        summary: #In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+      # - title: A Physically-Based Frequency-Temperature Seismic Anelastic Attenuation Model for Planetary Ice Shells
+      #   authors:
+      #     - Delaroque, L., Kawamura, T., Lucas, A., Rodriguez, S.
+      #   publisher: Earth and Space Sciences, 2026.
+      #   releaseDate: 2026-08-07
+      #   url: www.doi.org/10.1029/2026EA005178
+      #   summary: #In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
 
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      # - name: Physics
+      #   level: Master
+      #   icon: fa-solid fa-hashtag
+      #   keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Languages:
       - name: French
@@ -123,26 +123,27 @@ cv:
       - name: English
         summary: "Fluent"
 
+
     Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      # - name: Physics
+      #   icon: fa-solid fa-tag
+      #   keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+      # - name: Machine Learning
+      #   date: 2018-01-01
+      #   issuer: Stanford University
+      #   icon: fa-solid fa-location-dot
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+      # - name: Quantum Computing
+      #   date: 2018-01-01
+      #   issuer: Stanford University
+      #   icon: fa-solid fa-tag
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+      # - name: Quantum Information
+      #   date: 2018-01-01
+      #   issuer: Stanford University
+      #   icon: fa-solid fa-envelope
 
     Projects:
       - name: Quantum Computing
@@ -154,10 +155,10 @@ cv:
         end_date: 2018-01-01
 
     References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      # - name: Professor John Doe
+      #   icon: fa-solid fa-laptop
+      #   reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      # - name: Professor Jane Smith
+      #   icon: fa-solid fa-thumbtack
+      #   reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
